@@ -10,6 +10,6 @@
 </h1>
 <h3>message : ${message}</h3>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  new letter(break korean)</P>
 </body>
 </html>
